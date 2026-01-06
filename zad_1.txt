@@ -1,0 +1,9 @@
+linia zawierająca "rclpy.spin(node)":
+1. Utrzymuje węzeł w pracy
+2. Uruchamia pętlę zdarzeń ROS2
+
+Umożliwia:
+1. Odbieranie wiadomości (subscriber)
+2. Wysyłanie wiadomości (publisher)
+3. Obsługę timerów
+4. Reagowanie na callbacki
